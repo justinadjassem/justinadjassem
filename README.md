@@ -8,19 +8,19 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 
 ### Languages and tools :
 
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />]
+[<img align="left" width="25px" alt="Spring boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="VueJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Html 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Css 3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Amazon Web Services" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 1opx;" />]
+[<img align="left" width="25px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Intelij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 11px;" />]
+[<img align="left" width="25px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 10px;" />]
+[<img align="left" width="25px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />]
 
 ### ⭐ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
