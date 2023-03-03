@@ -6,7 +6,7 @@ With regards to cloud devops, I am skilled in using **Amazon Web Services (AWS)*
 Finally, as a graphic designer, I have significant experience in creating attractive and compelling designs for a variety of projects.
 Overall, I am a multidisciplinary professional who can bring both technical and creative expertise to any project.
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](justin.adjassem@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yao-fiawomo-justin/)
