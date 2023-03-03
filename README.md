@@ -30,7 +30,8 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 [<img align="left" width="26px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 10px; margin:0px;" />][github]
 [<img align="left" width="26px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right: 11px; margin:0px;" />][github]
 
-<br />
+
+
 ### ⭐ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
 
