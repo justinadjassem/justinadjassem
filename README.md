@@ -25,10 +25,10 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 [<img align="left" width="26px" alt="CircleCi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" style="padding-right: 10px; margin:0px;" />][github]
 [<img align="left" width="26px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right: 10px; margin:0px;" />][github]
 [<img align="left" width="26px" alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right: 10px; margin:0px;" />]
-[<img align="left" width="26px" alt="Intelij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 10px; margin:0px;" />]
-[<img align="left" width="26px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 10px; margin:0px;" />]
-[<img align="left" width="26px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 10px; margin:0px;" />]
-[<img align="left" width="26px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right: 11px; margin-bottom: 2px;" />]
+[<img align="left" width="26px" alt="Intelij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 10px; margin:0px;" />][github][github]
+[<img align="left" width="26px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 10px; margin:0px;" />][github]
+[<img align="left" width="26px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 10px; margin:0px;" />][github]
+[<img align="left" width="26px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right: 11px; margin-bottom: 2px;" />][github]
 
 <br/>
 <br/>
