@@ -6,9 +6,14 @@ With regards to cloud devops, I am skilled in using *Amazon Web Services (AWS)* 
 Finally, as a graphic designer, I have significant experience in creating attractive and compelling designs for a variety of projects.
 Overall, I am a multidisciplinary professional who can bring both technical and creative expertise to any project.
 
+📫 How to reach me:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](justin.adjassem@gmail.com)
+ [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/yao-fiawomo-justin/)
+
 ### Languages and tools :
 
 [<img align="left" width="26px" alt="Spring boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  style="padding-right: 10px;" />]
+
 [<img align="left" width="26px" alt="VueJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" style="padding-right: 10px;" />]
 [<img align="left" width="26px" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right: 10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
@@ -22,5 +27,11 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 [<img align="left" width="26px" alt="Intelij" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 10px;" />]
 [<img align="left" width="26px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 11px;" />]
 [<img align="left" width="26px" alt="Adobe Illustrator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 10px;" />]
+
+[<img align="left" width="26px" alt="Adobe Photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />]
+
+<br />
+<br />
+
 ### ⭐ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
