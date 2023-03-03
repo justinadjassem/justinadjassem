@@ -20,6 +20,7 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" style="padding-right: 11px;" />]
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right: 11px;" />]
 [<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" style="padding-right: 11px;" />]
-[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right: 11px;" />]
+[<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />]
+
 ### ⭐ GitHub Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
