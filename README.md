@@ -37,4 +37,9 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
 
+---
+### Recent Activity
+<!--START_SECTION:activity-->
+
+
 [github]: https://github.com/justinadjassem
