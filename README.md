@@ -11,6 +11,7 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](justin.adjassem@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yao-fiawomo-justin/)
 
+---
 ### Languages and tools :
 
 [<img align="left" width="26px" alt="Spring boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  style="padding-right: 10px;  margin:0;" />][github]
@@ -33,6 +34,7 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 <br/>
 <br/>
 
+---
 ### GitHub Stats :
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=justinadjassem)
@@ -40,6 +42,7 @@ Overall, I am a multidisciplinary professional who can bring both technical and 
 ---
 ### Recent Activity
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 [github]: https://github.com/justinadjassem
